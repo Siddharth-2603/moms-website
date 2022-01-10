@@ -40,6 +40,7 @@ a{
     padding-left: 25px;
     padding-bottom: 40px;
     justify-content: space-around;
+    height:auto;
 }
 .top{
     font-size: 40px;
@@ -57,7 +58,6 @@ a{
 
 
 .third{
-    display:block;
     padding-top:40px ;
     padding-left: 50px;
     display:flex;
